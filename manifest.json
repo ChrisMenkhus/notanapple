@@ -1,0 +1,8 @@
+{
+  "short_name": "NotAnApple",
+  "name": "Mangos That Are Not Apples",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
